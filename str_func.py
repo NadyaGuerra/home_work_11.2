@@ -5,3 +5,6 @@ def str_func(message):
 def title(message):
     '''вывод первых заглавных букв'''
     return(message.title())
+
+
+print () #just to fix te commit
